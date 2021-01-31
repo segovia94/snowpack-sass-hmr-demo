@@ -12,3 +12,8 @@
   width: 540px;
   height: 540px;
 }
+
+/* Change me. No page reload happens. */
+body {
+  color: black;
+}
